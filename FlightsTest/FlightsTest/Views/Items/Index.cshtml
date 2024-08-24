@@ -1,0 +1,38 @@
+﻿@model IEnumerable<FlightsTest.Models.Item>
+
+@{
+    ViewData["Title"] = "Item List";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Form for adding new items -->
+<form id="addItemForm">
+    <div class="form-group">
+        <label for="itemName">Item Name</label>
+        <input type="text" id="itemName" name="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Item</button>
+</form>
+
+<!-- Table for displaying items -->
+<table id="itemList" class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr data-id="@item.Id">
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Include the JavaScript file -->
+<script src="~/js/site.js"></script>

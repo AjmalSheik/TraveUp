@@ -1,0 +1,20 @@
+﻿@model FlightsTest.Models.Item
+
+@{
+    ViewData["Title"] = "Create Item";
+}
+
+<h1> @ViewData["Title"]</h1>
+
+<!-- Form for adding new items -->
+<form id="addItemForm">
+    <div class="form-group">
+        <label for="itemName">Item Name</label>
+        <input type="text" id="itemName" name="Name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Item</button>
+</form>
+
+<div id="responseMessage" style="margin-top: 10px;"></div>
+
+<script src="~/js/site.js"></script>

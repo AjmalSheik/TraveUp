@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\controllers\\itemsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\controllers\\itemsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\migrations\\20240819063814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\migrations\\20240819063814_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|d:\\ajmal\\test_projects\\dot_net_mv_test\\flightstest\\flightstest\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A5179D-F448-4A88-899D-9089E91581FF}|FlightsTest\\FlightsTest.csproj|solutionrelative:flightstest\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:28:44.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Program.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Program.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Program.cs",
+              "RelativeToolTip": "FlightsTest\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:29:39.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Items\\Create.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Items\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:11:18.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Items\\Index.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Items\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:10:19.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "FlightsTest\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:08:12.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T06:19:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "FlightsTest\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "FlightsTest\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-19T06:43:48.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FlightsTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:39:31.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsApiController.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\ItemsApiController.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Controllers\\ItemsApiController.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Controllers\\ItemsApiController.cs",
+              "RelativeToolTip": "FlightsTest\\Controllers\\ItemsApiController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:19:41.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightsTest\\appsettings.json",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\appsettings.json",
+              "RelativeToolTip": "FlightsTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T06:34:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FlightsTest\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:33:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:28:47.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FlightsTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FlightsTest\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:28:41.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FlightsTest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:41:18.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240819063814_InitialCreate.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Migrations\\20240819063814_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Migrations\\20240819063814_InitialCreate.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Migrations\\20240819063814_InitialCreate.cs",
+              "RelativeToolTip": "FlightsTest\\Migrations\\20240819063814_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:38:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FlightsTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ajmal\\TEST_PROJECTS\\Dot_net_mv_test\\FlightsTest\\FlightsTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FlightsTest\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T07:16:23.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
